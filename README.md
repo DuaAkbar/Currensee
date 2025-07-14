@@ -151,10 +151,11 @@ Logout with confirmation dialog
 
 Contact form sends feedback to Supabase DB
 
-🙋‍♀️ Author
-Dua Akbar
-📧 duaakbar912@gmail.com
-🔗 LinkedIn Profile
+
+## 🙋‍♀️ Author
+**Dua Akbar**  
+📧 duaakbar912@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/dua-akbar-73686636b/)  
 🎓 Software Engineering Student | Flutter Enthusiast | Remote Internship Seeker
 
 📄 License
